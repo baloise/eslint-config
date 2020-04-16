@@ -60,4 +60,4 @@ Open your `package.json` and add the following script command `format`.
 
 Open preferences and navigate to `Editor -> Code Style -> TypeScript` and apply the following configurations.
 
-![IDEA Preferences](./idea.ong)
+![IDEA Preferences](idea.png)
