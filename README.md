@@ -8,7 +8,7 @@ ESLint shareable config for the Baloise style.
 ## Installation
 
 ```bash
-yarn add -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser typescript
+yarn add -D @baloise/eslint-config-typescript eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser typescript
 ```
 
 Create a `.eslintrc` file with the following content.
