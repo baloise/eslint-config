@@ -19,11 +19,14 @@
     "type": "git",
     "url": "git+https://github.com/baloise/eslint-config.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/baloise/eslint-config/issues"
   },
-  "gitHead": "6abe5b0b1e6116337c9e881b47b2a1c0b3aadf78"
+  "gitHead": "52a3196f17288f0b79c23f6602d1912f51c51ebc"
 }
