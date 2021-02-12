@@ -1,0 +1,28 @@
+{
+  "name": "@baloise/eslint-config-angular",
+  "version": "0.0.0",
+  "description": "ESLint shareable config for the Baloise style.",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "hirsch <gery.hirschfeld@w3tec.ch>",
+  "homepage": "https://github.com/baloise/eslint-config/tree/master/packages/angular#readme",
+  "license": "Apache-2.0",
+  "main": "src/angular.js",
+  "directories": {
+    "lib": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baloise/eslint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/baloise/eslint-config/issues"
+  }
+}
