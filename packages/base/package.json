@@ -1,6 +1,6 @@
 {
   "name": "@baloise/eslint-config-base",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "ESLint shareable config for the Baloise style.",
   "keywords": [
     "eslint"
@@ -10,11 +10,10 @@
   "license": "Apache-2.0",
   "main": "src/base.config.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "src": "src"
   },
   "files": [
-    "lib"
+    "src"
   ],
   "publishConfig": {
     "access": "public"
@@ -29,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/baloise/eslint-config/issues"
   },
-  "gitHead": "52a3196f17288f0b79c23f6602d1912f51c51ebc"
+  "gitHead": "5ee89a56a5f2bf58a42778e137a5bf6f77a3abe8"
 }
