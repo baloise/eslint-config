@@ -1,6 +1,6 @@
 {
   "name": "@baloise/eslint-config-angular",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "ESLint shareable config for the Baloise style.",
   "keywords": [
     "eslint"
@@ -28,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/baloise/eslint-config/issues"
   },
-  "gitHead": "44d4c84b07f0a5b74585b0ae64283494549dc4f9"
+  "gitHead": "a8c79fe7c8f4d33cb8fbe39741cd4b38406372b4"
 }
