@@ -1,6 +1,6 @@
 {
   "name": "@baloise/eslint-config-angular",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint shareable config for the Baloise style.",
   "keywords": [
     "eslint"
