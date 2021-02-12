@@ -1,5 +1,5 @@
 {
-  "name": "base",
+  "name": "@baloise/eslint-config-base",
   "version": "0.0.0",
   "description": "ESLint shareable config for the Baloise style.",
   "keywords": [
