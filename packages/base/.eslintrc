@@ -1,3 +1,11 @@
 {
-  "extends": "./index.js"
+  "extends": "./index.js",
+  "env": {
+    "node": true
+  },
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"]
+    }
+  ]
 }

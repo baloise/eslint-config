@@ -9,12 +9,6 @@
   "homepage": "https://github.com/baloise/eslint-config/tree/master/packages/base#readme",
   "license": "Apache-2.0",
   "main": "index.js",
-  "directories": {
-    "src": "src"
-  },
-  "files": [
-    "src"
-  ],
   "publishConfig": {
     "access": "public"
   },
@@ -23,10 +17,21 @@
     "url": "git+https://github.com/baloise/eslint-config.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "lint": "eslint"
   },
   "bugs": {
     "url": "https://github.com/baloise/eslint-config/issues"
   },
-  "gitHead": "a8c79fe7c8f4d33cb8fbe39741cd4b38406372b4"
+  "gitHead": "a8c79fe7c8f4d33cb8fbe39741cd4b38406372b4",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.1",
+    "@typescript-eslint/parser": "^4.15.1",
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.5"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.20.0"
+  }
 }
