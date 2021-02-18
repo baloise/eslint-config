@@ -8,7 +8,7 @@
   "author": "hirsch <gery.hirschfeld@w3tec.ch>",
   "homepage": "https://github.com/baloise/eslint-config/tree/master/packages/base#readme",
   "license": "Apache-2.0",
-  "main": "src/base.config.js",
+  "main": "index.js",
   "directories": {
     "src": "src"
   },
