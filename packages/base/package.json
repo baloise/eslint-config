@@ -1,6 +1,6 @@
 {
   "name": "@baloise/eslint-config-base",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "ESLint shareable config for the Baloise style.",
   "keywords": [
     "eslint"
@@ -27,7 +27,7 @@
     "@typescript-eslint/eslint-plugin": "^4.15.1",
     "@typescript-eslint/parser": "^4.15.1",
     "eslint": "^7.20.0",
-    "eslint-config-prettier": "^7.2.0",
+    "eslint-config-prettier": "^8.1.0",
     "prettier": "^2.2.1",
     "typescript": "^4.1.5"
   },
