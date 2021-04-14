@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/baloise/eslint-config/compare/v0.2.2...v0.3.0) (2021-04-14)
+
+
+### Features
+
+* remove overrides ([de8ec1b](https://github.com/baloise/eslint-config/commit/de8ec1b497e58a5ebfd6f22a8f91ef48d0e93127))
+
+
+
+
+
 ## [0.2.2](https://github.com/baloise/eslint-config/compare/v0.2.1...v0.2.2) (2021-04-14)
 
 
