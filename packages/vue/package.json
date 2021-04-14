@@ -1,6 +1,6 @@
 {
   "name": "@baloise/eslint-config-vue",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "ESLint shareable config for the Baloise style.",
   "keywords": [
     "eslint"
@@ -30,6 +30,6 @@
   },
   "gitHead": "a8c79fe7c8f4d33cb8fbe39741cd4b38406372b4",
   "dependencies": {
-    "@baloise/eslint-config-base": "^0.1.0"
+    "@baloise/eslint-config-base": "^0.2.0"
   }
 }
