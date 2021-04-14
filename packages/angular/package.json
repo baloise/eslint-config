@@ -30,19 +30,30 @@
   },
   "gitHead": "a8c79fe7c8f4d33cb8fbe39741cd4b38406372b4",
   "devDependencies": {
+    "@angular-eslint/builder": "^2.1.0",
+    "@angular-eslint/eslint-plugin": "^2.1.0",
+    "@angular-eslint/eslint-plugin-template": "^2.1.0",
+    "@angular-eslint/template-parser": "^2.1.0",
     "@baloise/eslint-config-base": "^0.1.0",
-    "@typescript-eslint/eslint-plugin": "^4.21.0",
-    "@typescript-eslint/parser": "^4.21.0",
-    "eslint": "^7.23.0",
-    "eslint-config-prettier": "^8.1.0",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.24.0",
+    "eslint-config-prettier": "^8.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsdoc": "^32.3.0",
+    "eslint-plugin-prefer-arrow": "^1.2.3",
     "prettier": "^2.2.1",
     "typescript": "^4.2.3"
   },
   "peerDependencies": {
-    "@baloise/eslint-config-base": "0.0.8",
-    "@typescript-eslint/eslint-plugin": ">=4.21.0",
-    "@typescript-eslint/parser": ">=4.21.0",
-    "eslint": ">=7.20.0",
-    "eslint-config-prettier": ">=8.0.0"
+    "@angular-eslint/builder": ">=2.1.0",
+    "@angular-eslint/eslint-plugin": ">=2.1.0",
+    "@angular-eslint/eslint-plugin-template": ">=2.1.0",
+    "@angular-eslint/template-parser": ">=2.1.0",
+    "@baloise/eslint-config-base": ">=0.1.0",
+    "@typescript-eslint/eslint-plugin": ">=4.22.0",
+    "@typescript-eslint/parser": ">=4.22.0",
+    "eslint": ">=7.24.0",
+    "eslint-config-prettier": ">=8.2.0"
   }
 }

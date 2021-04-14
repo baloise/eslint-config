@@ -1,4 +1,5 @@
 module.exports = {
+  env: { es6: true },
   parser: "@typescript-eslint/parser",
   parserOptions: {
     ecmaVersion: 2020,
