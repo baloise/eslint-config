@@ -29,12 +29,14 @@
     "url": "https://github.com/baloise/eslint-config/issues"
   },
   "gitHead": "a8c79fe7c8f4d33cb8fbe39741cd4b38406372b4",
+  "dependencies": {
+    "@baloise/eslint-config-base": "^0.2.1"
+  },
   "devDependencies": {
     "@angular-eslint/builder": "^2.1.0",
     "@angular-eslint/eslint-plugin": "^2.1.0",
     "@angular-eslint/eslint-plugin-template": "^2.1.0",
     "@angular-eslint/template-parser": "^2.1.0",
-    "@baloise/eslint-config-base": "^0.2.1",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
     "eslint": "^7.24.0",
@@ -49,11 +51,6 @@
     "@angular-eslint/builder": ">=2.1.0",
     "@angular-eslint/eslint-plugin": ">=2.1.0",
     "@angular-eslint/eslint-plugin-template": ">=2.1.0",
-    "@angular-eslint/template-parser": ">=2.1.0",
-    "@baloise/eslint-config-base": "^0.2.0",
-    "@typescript-eslint/eslint-plugin": ">=4.22.0",
-    "@typescript-eslint/parser": ">=4.22.0",
-    "eslint": ">=7.24.0",
-    "eslint-config-prettier": ">=8.2.0"
+    "@angular-eslint/template-parser": ">=2.1.0"
   }
 }
