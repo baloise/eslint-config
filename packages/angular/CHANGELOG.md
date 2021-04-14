@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/baloise/eslint-config/compare/v0.2.1...v0.2.2) (2021-04-14)
+
+
+### Bug Fixes
+
+* add base to dep ([04cb976](https://github.com/baloise/eslint-config/commit/04cb976d130f301593faed79daef8affcec1b1f8))
+
+
+
+
+
 ## [0.2.1](https://github.com/baloise/eslint-config/compare/v0.2.0...v0.2.1) (2021-04-14)
 
 
