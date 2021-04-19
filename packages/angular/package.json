@@ -1,6 +1,6 @@
 {
   "name": "@baloise/eslint-config-angular",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "ESLint shareable config for the Baloise style.",
   "keywords": [
     "eslint"
@@ -28,7 +28,7 @@
   },
   "gitHead": "a8c79fe7c8f4d33cb8fbe39741cd4b38406372b4",
   "dependencies": {
-    "@baloise/eslint-config-base": "^0.3.0"
+    "@baloise/eslint-config-base": "^0.3.1"
   },
   "devDependencies": {
     "@angular-eslint/builder": "^2.1.0",
