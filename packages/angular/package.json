@@ -8,12 +8,10 @@
   "author": "hirsch <gery.hirschfeld@w3tec.ch>",
   "homepage": "https://github.com/baloise/eslint-config/tree/master/packages/angular#readme",
   "license": "Apache-2.0",
-  "main": "src/angular.config.js",
-  "directories": {
-    "src": "src"
-  },
+  "main": "index.js",
   "files": [
-    "src"
+    "index.js",
+    "template.js"
   ],
   "repository": {
     "type": "git",
